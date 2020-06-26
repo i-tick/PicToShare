@@ -1,6 +1,4 @@
-# pictoshare
-
-A new Flutter application.
+# PicToShare
 
 ## Getting Started
 
@@ -17,6 +15,11 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ![Image](assets/OTP.jpeg)
-![Image](best_flutter_ui_templates/assets/fitness_app/fitness_app.png)
-![Image](images/custom_drawer.png)
-![Image](best_flutter_ui_templates/assets/design_course/design_course.png)
+![Image](assets/display.jpeg)
+![Image](assets/login.jpeg)
+![Image](assets/OTP.jpeg)
+![Image](assets/registration.jpeg)
+![Image](assets/splash.jpeg)
+![Image](assets/update.jpeg)
+![Image](assets/upload.jpeg)
+![Image](assets/verification.jpeg)
