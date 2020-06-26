@@ -20,7 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Login/ Registration Page
 
-<img height="480px" src="assets/login.jpeg"> <img height="480px" src="registration.jpeg">
+<img height="480px" src="assets/login.jpeg"> <img height="480px" src="assets/registration.jpeg">
 
 ## Phone Verification
 
