@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "612288129571",
+    "firebase_url": "https://pictoshare-10445.firebaseio.com",
+    "project_id": "pictoshare-10445",
+    "storage_bucket": "pictoshare-10445.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612288129571:android:b525048f113004bb4c5f96",
+        "android_client_info": {
+          "package_name": "com.example.pictoshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612288129571-0r2drs0795tn4j0r19mm6sdd9ei1c1s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHKMx4Udq-p48wSLoJLbCYC8ztpmS3FMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612288129571-0r2drs0795tn4j0r19mm6sdd9ei1c1s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
