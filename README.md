@@ -13,26 +13,29 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Screenshots
-# Splash Screen
+# Screenshots
+## Splash Screen
 
 <img height="480px" src="assets/splash.jpeg">
 
-Login/ Registration Page
-![Image](assets/login.jpeg) ![Image](assets/registration.jpeg)
+## Login/ Registration Page
 
-Phone Verification
-![Image](assets/OTP.jpeg)
+<img height="480px" src="assets/login.jpeg"> <img height="480px" src="registration.jpeg">
 
-Email Verification(One Click)
-![Image](assets/verification.jpeg)
+## Phone Verification
 
-DashBoard
-![Image](assets/display.jpeg)
+<img height="480px" src="assets/OTP.jpeg">
 
-User Profile Settings
-![Image](assets/update.jpeg)
+## Email Verification(One Click)
 
-Upload Image to Firestore
-![Image](assets/upload.jpeg)
+<img height="480px" src="assets/verification.jpeg">
+
+## DashBoard
+<img height="480px" src="assets/display.jpeg">
+
+## User Profile Settings
+<img height="480px" src="assets/update.jpeg">
+
+## Upload Image to Firestore
+<img height="480px" src="assets/upload.jpeg">
 
