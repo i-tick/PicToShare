@@ -16,7 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-![Image](assets/hotel/OTP.jpeg)
+![Image](assets/OTP.jpeg)
 ![Image](best_flutter_ui_templates/assets/fitness_app/fitness_app.png)
 ![Image](images/custom_drawer.png)
 ![Image](best_flutter_ui_templates/assets/design_course/design_course.png)
