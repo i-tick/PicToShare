@@ -13,13 +13,24 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-
-![Image](assets/OTP.jpeg)
-![Image](assets/display.jpeg)
-![Image](assets/login.jpeg)
-![Image](assets/OTP.jpeg)
-![Image](assets/registration.jpeg)
+Splash Screen
 ![Image](assets/splash.jpeg)
-![Image](assets/update.jpeg)
-![Image](assets/upload.jpeg)
+
+Login/ Registration Page
+![Image](assets/login.jpeg) ![Image](assets/registration.jpeg)
+
+Phone Verification
+![Image](assets/OTP.jpeg)
+
+Email Verification(One Click)
 ![Image](assets/verification.jpeg)
+
+DashBoard
+![Image](assets/display.jpeg)
+
+User Profile Settings
+![Image](assets/update.jpeg)
+
+Upload Image to Firestore
+![Image](assets/upload.jpeg)
+
